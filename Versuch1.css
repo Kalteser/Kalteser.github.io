@@ -56,7 +56,7 @@ background-color: white;
 }
 
 .picture{
-	background-image: url(Bild1.jpg.) ;
+	background-image: /url(Bild1.jpg.) ;
 	height: 85%;
 	width: 85%;
 }
