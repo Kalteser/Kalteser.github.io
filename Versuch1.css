@@ -8,8 +8,52 @@ background-color: red;
 
 .tester{
 	position: absolute;
-	width: 150px;
-	left: 100px;
+	width: 500px;
+	left: 500px;
 	border: black dotted 5px;
-	background-color: blue;
+	background-color: white;
 }
+
+
+.testung{
+	position: absolute;
+	width: 500px;
+	left: 500px;
+	border: black dotted 5px;
+	background-color: white;
+}
+
+.Punkt{
+	position: absolute;
+	width: 500px;
+	left: 500px;
+	border: black dotted 5px;
+	background-color: white;
+}
+
+.Komma{
+	position: absolute;
+	width: 500px;
+	left: 500px;
+	border: black dotted 5px;
+	background-color: white;
+}
+
+.Doppel{
+	position: absolute;
+	width: 500px;
+	left: 500px;
+	border: black dotted 5px;
+	background-color: white;
+}
+
+.Doppelpunkt{
+	position: absolute;
+	width: 500px;
+	left: 500px;
+	border: black dotted 5px;
+	background-color: white;
+}
+
+.picture{
+	background-image: url(Bild1.jpg.);
